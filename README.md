@@ -4,9 +4,9 @@ Social network website
 index page :-
 ![FireShot Capture 003 - Social Blog - jagannest 000webhostapp com-1](https://user-images.githubusercontent.com/81976809/213899909-06f380cc-afbf-489b-afd4-4588af6854fb.jpg)
 
-Sign up:-
-![FireShot Capture 006 - Social Blog - jagannest 000webhostapp com](https://user-
-images.githubusercontent.com/81976809/213899911-22fee6fb-eec5-4113-a3b4-c0e1ec354765.png)
+Sign up :-
+![FireShot Capture 006 - Social Blog - jagannest 000webhostapp com](https://user-images.githubusercontent.com/81976809/213900072-f2d050d6-a608-4683-9c3a-7ecb0c947159.png)
+
 
 Login :-
 ![FireShot Capture 005 - Social Blog - jagannest 000webhostapp com](https://user-images.githubusercontent.com/81976809/213899914-978b9cb4-1c11-44d6-b7ba-f685d88af6da.png)
